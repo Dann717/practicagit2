@@ -1,1 +1,3 @@
 hola soy Bryan naci el 11/11/2025 y actualmente estudio ingenieria en sistemas con 19 años.
+
+y ahora estoy haciendo una practica de git.
